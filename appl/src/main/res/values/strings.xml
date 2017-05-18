@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Appl</string>
+    <string name="string_view_image"> View img</string>
+    <string name="string_upload_image">upload</string>
+    <string name="string_choose_file">choose</string>
+</resources>
