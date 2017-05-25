@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android.iml" filepath="$PROJECT_DIR$/Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OVRS-Android.iml" filepath="$PROJECT_DIR$/OVRS-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/appl/appl.iml" filepath="$PROJECT_DIR$/appl/appl.iml" />
     </modules>
   </component>
