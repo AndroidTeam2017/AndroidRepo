@@ -9,6 +9,7 @@ import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     ListView listView;
+
     Button register;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,11 +25,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if(view == register){
             registeration();
         }
+
     }
+
 
     private void registeration() {
 
         startActivity(new Intent(this, Register.class));
     }
 }
+
 
